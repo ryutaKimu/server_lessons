@@ -1,0 +1,14 @@
+-ls
+-cd
+-pwd
+-mkdir
+-touch
+-cp
+-cp -r
+-rm
+-rm -r
+-rm -rf /
+- echo
+- cat
+- vi
+
